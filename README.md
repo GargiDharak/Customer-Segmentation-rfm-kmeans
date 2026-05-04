@@ -25,9 +25,6 @@ This project focuses on segmenting customers based on purchasing behavior using 
 - Python (Pandas, NumPy, Scikit-learn)
 - Tableau
 
-## 📷 Dashboard Preview
-![Dashboard](dashboard/tableau_dashboard.png)
-
 ## 📂 Dataset
 Online Retail Dataset
 
