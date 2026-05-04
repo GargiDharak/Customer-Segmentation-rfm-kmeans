@@ -1,32 +1,27 @@
-# Customer-Segmentation-rfm-kmeans
 # 🛍️ Customer Segmentation using RFM & K-Means
 
-## 📌 Project Overview
-This project focuses on segmenting customers based on purchasing behavior using RFM (Recency, Frequency, Monetary) analysis and K-Means clustering.
+## 📌 Overview
+End-to-end customer segmentation project using transactional data to identify high-value customers and analyze revenue contribution.
 
-## 🔍 Objectives
-- Understand customer behavior
-- Identify high-value customers
-- Analyze revenue contribution by segment
+## 🔍 Problem Statement
+Businesses need to understand customer behavior to improve retention and maximize revenue.
 
-## ⚙️ Steps Performed
-- Data Cleaning using Pandas
-- Feature Engineering (RFM)
-- Scaling using StandardScaler
+## ⚙️ Approach
+- Data Cleaning (Pandas)
+- RFM Feature Engineering (Recency, Frequency, Monetary)
+- Standardization
 - K-Means Clustering
-- Data Visualization using Tableau
-
-## 📊 Key Insights
-- Majority revenue comes from a dominant customer segment
-- Identified high-value customers with high spending
+- Tableau Dashboard Visualization
+- 
+## 💡 Key Insights
+- Majority of revenue comes from one dominant cluster
+- Identified high-value, low-frequency customers
 - Small segment contributes disproportionately to revenue
 
-## 🛠 Tools Used
-- Python (Pandas, NumPy, Scikit-learn)
-- Tableau
+## 📈 Business Recommendations
+- Target Cluster 3 with loyalty programs
+- Upsell Cluster 1 customers
+- Re-engage Cluster 0 customers with campaigns
 
-## 📂 Dataset
-Online Retail Dataset
-
-## 🚀 Conclusion
-Customer segmentation helps businesses target customers more effectively and improve retention strategies.
+## 🛠 Tools
+Python, Pandas, Scikit-learn, Tableau
